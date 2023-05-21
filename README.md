@@ -1,4 +1,4 @@
-# Android_Applications
+# Android Applications
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
