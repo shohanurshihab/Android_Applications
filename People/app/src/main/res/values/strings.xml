@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">People</string>
+    <string name="arafat_name">Arafat Ahmed Shishir</string>
+    <string name="arafat_mssg">Reacted 😆 to your message.</string>
+    <string name="mohahammad_sheakh">Mohahammad Sheakh</string>
+    <string name="ethics_er_grade">Ethics er grade....</string>
+    <string name="md_takib_udding_sarker">MD Takib Udding Sarker</string>
+    <string name="good_job">Good job!</string>
+    <string name="sk_linkon">SK Linkon</string>
+    <string name="taka_paisis">Taka Paisis</string>
+    <string name="ammu">Ammu</string>
+    <string name="kokhn_asbi">Kokhn asbi?</string>
+    <string name="roni">Roni</string>
+    <string name="lo_ajka_jai">Lo ajka Jai</string>
+    <string name="ki_koro">ki koro</string>
+    <string name="active_an_hour_ago">Active an hour ago</string>
+</resources>
